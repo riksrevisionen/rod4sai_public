@@ -1,10 +1,7 @@
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### Setup ###
+* These collection of scripts creates the dashboard using streamlit
+* app.py is the main script from where everything starts
 
 
 
