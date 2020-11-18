@@ -1,0 +1,7 @@
+[server]
+folderWatchBlacklist = ['']
+port = 80
+enableCORS = false
+
+[browser]
+serverPort = 80

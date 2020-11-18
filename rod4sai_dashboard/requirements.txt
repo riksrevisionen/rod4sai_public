@@ -1,0 +1,11 @@
+pymongo
+streamlit>=0.69.1
+pandas
+plotly
+matplotlib
+sklearn
+altair
+numpy
+wordcloud
+plotly
+dnspython

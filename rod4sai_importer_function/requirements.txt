@@ -1,0 +1,12 @@
+azure-functions
+azure-storage-blob
+pymongo
+requests
+pandas
+vaderSentiment-swedish
+joblib
+sklearn
+nltk
+numpy
+wordcloud
+dnspython
